@@ -1,0 +1,15 @@
+{
+  "name": "pigs-game",
+  "version": "1.0.0",
+  "description": "nice little game",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adi Bader",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
